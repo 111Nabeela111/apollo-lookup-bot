@@ -5,7 +5,6 @@ Apollo People Lookup Bot using API and Google Sheets
 - Accepts name as input (via Telegram)
 - Returns name, title, company, email, LinkedIn
 - Logs to Google Sheet
-- No API key needed (mock data)
 
 ## Technologies
 - Python
